@@ -1,0 +1,27 @@
+Body{
+     Border:8px solid;
+     Margin-top:15px;
+     Margin-left:15px;
+     Margin-right:15px;
+     Border-color:#ba55d3;
+     Background:#7cfc00;
+     Color:#ff1515;
+     } 
+			p{
+					Margin-left:40px;
+					Margin-right:40px;
+					Margin-align:justify;
+					Font-size:25px;
+					}
+					
+			  img{
+							Border-style:dashed;
+							Border-width:15px;
+							Border-color:#90ff2b #40f5ff #ffa500 #7b68ee;
+							Border-radius:80px;
+			}
+			
+			ul li{
+							Font-size:25px;
+							
+			}
